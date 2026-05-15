@@ -8,20 +8,16 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/jumbotron.html objectid="https://i1-e.pinimg.com/736x/be/b7/b4/beb7b45c4142aec9a19a44e371529b65.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection;Project Credits" %}
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This digital archive is a collection of the most popular and loved Filipino romantic movies from the 1990s up to today. This page is a special space to celebrate the joy, heartbreak, and deep feelings that make Filipino love stories so unique. The movies here were chosen based on the personal favorites of the authors. We picked the exact films that touched our hearts, made us laugh, made us cry, and stayed with us long after the stories ended. More than just a list of favorites, this project is a way to honor and recognize the amazing Filipino film directors and the Philippine movie industry. These directors have a special gift for showing real human feelings on screen and creating art that speaks to everyone.
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+By looking at the most popular films across the years, this archive shows how Filipinos show love to their partners. It tracks how love stories have changed over time, starting from the traditional dating and deep drama of the 1990s, moving to the realistic and everyday relationship struggles of the 2000s and 2010s, and leading into the modern love stories of today. In the end, we created this page to keep the magic of Filipino romance movies alive, share these wonderful films with the world, and give every hopeless romantic a warm and familiar place to explore.
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+## Project Credits
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+This database was created by Michelle Rose Geronimo, Jhary Rhizhel Pamplona, Shiela Mae Balneg, Jamaica David, and Regine Kimberly Vitto in partial fulfillment of the requirements for ART003: Arts Appreciation (2nd Semester, AY 2025–2026) under the guidance of Prof. Adrian Mendizabal.
