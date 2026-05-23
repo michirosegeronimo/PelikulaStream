@@ -1,7 +1,7 @@
 field,display_name,browse_link,external_link
 title,Title,
 creator,Director,
-date,Date Created,
+date,Release Date,
 description,Description,
 subject,Subjects,true
 location,Location
